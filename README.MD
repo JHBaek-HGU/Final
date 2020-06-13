@@ -1,8 +1,8 @@
 # Carpe Diem - "Seize the Day"
-This is a wordpress website developed with RaspberryPi for the _Final Project_ for **Open Source Software Lab.**
+This is a WordPress website developed with RaspberryPi for the _Final Project_ for **Open Source Software Lab.**
 
 ## What does this project do?
-This is a Contents Management System (CMS), in this project using WordPress, developed with RaspberryPi to easily build one's website or blog. Learning about this project will also make you a host or admin of a website developed with Wordpress. Accessing the site will provide some features that will be explained next.
+This is a Contents Management System (CMS), in this project using WordPress, developed with RaspberryPi to easily build one's website or blog. Learning about this project will also make you a host or admin of a website developed with WordPress. Accessing the site will provide some features that will be explained next.
 
 ## Why is this project useful?
 This project is useful because you can easily get accessed to
@@ -14,7 +14,7 @@ This project is useful because you can easily get accessed to
 * Link to HISNet
      
 just by entering the site!            
-Also, refresh your mind during a leisure time!
+Also, refresh your mind during a leisure time and learn how to host a web server!
 ## How do I get started?
 **Cloning Process**
 * Log in to your RaspberryPi
@@ -34,7 +34,7 @@ Also, refresh your mind during a leisure time!
 ## Where can I get more help?
 For any questions or comments, please feel free to contact me through  <21700339@handong.edu>
 
-Tutorial on how to host a wordpress site on RaspberryPi  <https://www.makeuseof.com/tag/host-wordpress-raspberry-pi/>
+Tutorial on how to host a WordPress site on RaspberryPi  <https://www.makeuseof.com/tag/host-wordpress-raspberry-pi/>
 
 ## Contributing Guidelines
 For any bugs or new features, please use  pull requests
