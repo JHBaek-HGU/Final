@@ -12,8 +12,9 @@ This project is useful because you can easily get accessed to
 * Catch a glimpse of top News
 * Play mini-games
 * Link to HISNet
-just by entering the site!
-
+     
+just by entering the site!            
+Also, refresh your mind during a leisure time!
 ## How do I get started?
 **Cloning Process**
 * Log in to your RaspberryPi
