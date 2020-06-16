@@ -1,6 +1,11 @@
 # Carpe Diem - "Seize the Day"
 This is a WordPress website developed with RaspberryPi for the _Final Project_ for **Open Source Software Lab.**   
-Video Presentation -> https://youtu.be/M0Pe2CXfXlU
+Video Presentation -> https://youtu.be/M0Pe2CXfXlU     
+     
+**Source used** -> <https://www.makeuseof.com/tag/host-wordpress-raspberry-pi/>
+* I configured a WordPress server on Raspberry Pi by following the tutorial on how to host a WordPress site on Raspberry Pi
+* The customization of the website was implemented by myself
+* I used different plugins to customize the website (All the plugins can be found in /wp-content/plugins/ )
 
 ## What does this project do?
 This is a Contents Management System (CMS), in this project using WordPress, developed with RaspberryPi to easily build one's website or blog. Learning about this project will also make you a host or admin of a website developed with WordPress. Accessing the site will provide some features that will be explained next.
